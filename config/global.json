@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "myNestEgg"
+        }, 
+        "myNestEgg": {
+            "applicationId": "xTU5EqomlhBESVijxjTBqJp9i7xKUdYPLESETTep", 
+            "masterKey": "mHkbEgQ1YFZxaXmhRFzJlAxHH1HiTxzFzxsPfn5P"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
